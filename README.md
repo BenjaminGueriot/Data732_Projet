@@ -1,5 +1,5 @@
 # Projet visualisation GUERIOT Benjamin, NICOLAS Thomas
-Projet Algorithmique
+Projet DATA732
 
 ### Sommaire 
 
@@ -29,4 +29,5 @@ Une fois le fichier app.py executé, 4 pages sont disponibles :
 Cloner le projet dans un repertoire : 
 
 `git  clone https://github.com/BenjaminGueriot/Data732_Projet.git'
-.
+
+Lancer le fichier app.py.
