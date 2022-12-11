@@ -11,7 +11,7 @@ Projet Algorithmique
 
 Ce programme a été réalisé dans le cadre de notre formation à Polytech Annecy-Chambéry 
 
-Ce programme est construit a partir de données d'article contenue dans plusieurs fichier. (1_Poisy-ParcDesGlaisins.txt and 2_Piscine-Patinoire_Campus.txt).
+Ce programme est construit a partir de données d'article contenue dans plusieurs fichier.
 
 L'objectif est de réaliser plusieurs graphiques afin de pouvoir visualiser de manière fluide les différentes données
 
